@@ -12,7 +12,7 @@ When i started to learn Python few years ago, I remember I was not very familier
 
 Here is built in properties and methos of python mapping type container, dictionary.
 
-![Concept map for SQL selection](https://www.dropbox.com/s/64y6ciq62iwhf1j/concept_map_Python_dict.png?dl=0)
+![Concept map for python dict](http://i.imgur.com/kTTzIIP.png)
 
 It shows the built-in methods of dictionary in python.
 <code>
